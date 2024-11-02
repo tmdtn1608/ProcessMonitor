@@ -1,0 +1,9 @@
+[submodule "monitoring-back"]
+	path = monitoring-back
+	url = https://github.com/tmdtn1608/monitoring-back.git
+[submodule "monitoring-client"]
+	path = monitoring-client
+	url = https://github.com/tmdtn1608/python_monitoring.git
+[submodule "monitoring-front"]
+	path = monitoring-front
+	url = https://github.com/tmdtn1608/monitoring-front.git
